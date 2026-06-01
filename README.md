@@ -39,11 +39,11 @@ const duoc = {
 ### ⚡ Featured Builds
 
 <div align="center">
-  <a href="https://github.com/nhd2106/youtube-shorts-agents">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhd2106&repo=youtube-shorts-agents&theme=buefy&hide_border=true" />
-  </a>
   <a href="https://github.com/nhd2106/shorts-maker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhd2106&repo=shorts-maker&theme=buefy&hide_border=true" />
+  </a>
+  <a href="https://github.com/nhd2106/youtube-shorts-agents">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhd2106&repo=youtube-shorts-agents&theme=buefy&hide_border=true" />
   </a>
 </div>
 
@@ -51,8 +51,8 @@ const duoc = {
   <a href="https://github.com/nhd2106/ask-claude">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhd2106&repo=ask-claude&theme=buefy&hide_border=true" />
   </a>
-  <a href="https://github.com/nhd2106/mongo-safe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhd2106&repo=mongo-safe&theme=buefy&hide_border=true" />
+  <a href="https://github.com/nhd2106/mechanical-keyboard-3d-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhd2106&repo=mechanical-keyboard-3d-site&theme=buefy&hide_border=true" />
   </a>
 </div>
 
