@@ -1,17 +1,13 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,100:f5f3ff&height=180&text=Duoc%20Ngo&fontSize=54&fontColor=1e1b4b&fontAlignY=45&desc=Software%20Engineer%20%C2%B7%20AI%20Agent%20Builder%20%C2%B7%20Photographer&descAlignY=68&descSize=15&descColor=6E40C9" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,100:f5f3ff&height=200&text=Duoc%20Ngo&fontSize=56&fontColor=1e1b4b&fontAlignY=45&desc=Software%20Engineer%20%C2%B7%20AI%20Agent%20Builder%20%C2%B7%20Photographer&descAlignY=68&descSize=15&descColor=6E40C9" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github.com/nhd2106.png?size=72" width="72" />
-  <br/><br/>
   <a href="https://duoc95.com"><img src="https://img.shields.io/badge/duoc95.com-1e1b4b?style=flat-square&logo=vercel&logoColor=white" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Saigon,_VN-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Saigon,_Vietnam-1e1b4b?style=flat-square&logo=googlemaps&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/open_to_work-00c853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Xbot_JSC-1e1b4b?style=flat-square" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=nhd2106&style=flat-square&color=6E40C9&label=visitors" />
 </div>
@@ -20,21 +16,37 @@
 
 ---
 
-I build software at **Xbot JSC** in Saigon — mostly AI agents, mobile apps, and automation pipelines.  
-The laziness is the feature: if I have to do something twice, I automate it.  
-Between deploys, I shoot photos.
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <p>
+        I build software at <b>Xbot JSC</b> in Saigon — AI agents, mobile apps,<br/>
+        and automation pipelines.<br/><br/>
+        The laziness is the feature: if I have to do something twice, I automate it.<br/>
+        Between deploys, I shoot photos.
+      </p>
+    </td>
+    <td width="45%" valign="top" align="right">
+      <img src="https://img.shields.io/badge/focus-AI%20Agents-6E40C9?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/focus-Mobile%20Apps-6E40C9?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/focus-Automation-6E40C9?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/side-Photography-1e1b4b?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/side-Hackintosh-1e1b4b?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 **Built**
 
-| project | what it does | lang |
-|---|---|---|
-| [shorts-maker](https://github.com/nhd2106/shorts-maker) | end-to-end AI pipeline for generating short-form video | `TypeScript` |
-| [youtube-shorts-agents](https://github.com/nhd2106/youtube-shorts-agents) | AI agents that auto-publish YouTube Shorts | `Python` |
-| [ask-claude](https://github.com/nhd2106/ask-claude) | Claude AI CLI for the terminal | `TypeScript` |
-| [whisper-nodejs](https://github.com/nhd2106/whisper-nodejs) | OpenAI Whisper speech-to-text for Node | `TypeScript` |
-| [mechanical-keyboard-3d-site](https://github.com/nhd2106/mechanical-keyboard-3d-site) | interactive 3D keyboard in the browser | `Three.js` |
+| project | description | lang |
+|:--|:--|:--|
+| [shorts-maker](https://github.com/nhd2106/shorts-maker) | end-to-end AI pipeline for generating short-form video | TypeScript |
+| [youtube-shorts-agents](https://github.com/nhd2106/youtube-shorts-agents) | AI agents that auto-generate and publish YouTube Shorts | Python |
+| [ask-claude](https://github.com/nhd2106/ask-claude) | Claude AI CLI tool for the terminal | TypeScript |
+| [whisper-nodejs](https://github.com/nhd2106/whisper-nodejs) | OpenAI Whisper speech-to-text bindings for Node | TypeScript |
+| [mechanical-keyboard-3d-site](https://github.com/nhd2106/mechanical-keyboard-3d-site) | interactive 3D keyboard in the browser | Three.js |
 
 ---
 
