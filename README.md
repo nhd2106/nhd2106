@@ -36,18 +36,18 @@ const duoc = {
 
 ---
 
-### ⚡ Featured Builds
+### Featured Builds
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/nhd2106/shorts-maker">🎬 shorts-maker</a></h4>
+      <h4><a href="https://github.com/nhd2106/shorts-maker">shorts-maker</a></h4>
       <p>End-to-end AI pipeline for generating short-form video content</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/github/last-commit/nhd2106/shorts-maker?style=flat-square&color=7C3AED&label=updated" />
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/nhd2106/youtube-shorts-agents">🤖 youtube-shorts-agents</a></h4>
+      <h4><a href="https://github.com/nhd2106/youtube-shorts-agents">youtube-shorts-agents</a></h4>
       <p>AI agents that auto-generate and publish YouTube Shorts</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/github/stars/nhd2106/youtube-shorts-agents?style=flat-square&color=7C3AED" />
@@ -55,13 +55,13 @@ const duoc = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/nhd2106/ask-claude">💬 ask-claude</a></h4>
+      <h4><a href="https://github.com/nhd2106/ask-claude">ask-claude</a></h4>
       <p>CLI tool for interacting with Claude AI from the terminal</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/github/last-commit/nhd2106/ask-claude?style=flat-square&color=7C3AED&label=updated" />
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/nhd2106/mechanical-keyboard-3d-site">⌨️ mechanical-keyboard-3d-site</a></h4>
+      <h4><a href="https://github.com/nhd2106/mechanical-keyboard-3d-site">mechanical-keyboard-3d-site</a></h4>
       <p>Interactive 3D mechanical keyboard experience built for the web</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/github/last-commit/nhd2106/mechanical-keyboard-3d-site?style=flat-square&color=7C3AED&label=updated" />
@@ -71,7 +71,7 @@ const duoc = {
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,py,js,go,react,nodejs,mongodb,postgres,docker,linux&perline=10" />
@@ -84,7 +84,7 @@ const duoc = {
 
 ---
 
-### 📊 Stats
+### Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nhd2106&show_icons=true&theme=buefy&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true&icon_color=7C3AED&title_color=7C3AED" />
