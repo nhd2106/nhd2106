@@ -1,71 +1,95 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Duoc%20Ngo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Dev%20%7C%20AI%20Tinkerer%20%7C%20Saigon%20🇻🇳&descAlignY=58&descAlign=50&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Duoc%20Ngo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AI%20Agent%20Builder%20%C2%B7%20Photographer&descAlignY=62&descSize=17&descColor=c4b5fd" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=580&lines=Building+AI+agents+from+Saigon+%F0%9F%87%BB%F0%9F%87%B3;TypeScript+by+day%2C+Python+for+everything+AI+%F0%9F%A4%96;Automating+the+boring+stuff+with+Claude+%E2%9C%A8;Capturing+light+between+deploys+%F0%9F%93%B7" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://duoc95.com">
-    <img src="https://img.shields.io/badge/Portfolio-duoc95.com-000000?style=for-the-badge&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-duoc95.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Ho%20Chi%20Minh%20City-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Saigon-Vietnam%20%F0%9F%87%BB%F0%9F%87%B3-302b63?style=for-the-badge" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=nhd2106&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=nhd2106&style=for-the-badge&color=7C3AED&label=VISITORS" />
 </div>
 
 <br/>
 
 ---
 
-### Hey, I'm Duoc 👋
-
-I build things on the web and tinker with AI. Currently shipping products at **Xbot JSC** and exploring the edges of what AI agents can do.
-
-- 🤖 Building AI automation pipelines — YouTube Shorts, video generation, social media agents
-- ⚡ TypeScript is my daily driver; Python when it comes to AI
-- 🍎 Hackintosh enthusiast — macOS on custom B460M hardware ([15 ⭐ and counting](https://github.com/nhd2106/EFI-Hackintosh-B460M-Aorus-Pro-Core-i5-10400-RX-580-wifi-intel-AX200))
-- 🎬 Current obsession: **[shorts-maker](https://github.com/nhd2106/shorts-maker)** — end-to-end AI video pipeline
+```ts
+const duoc = {
+  role     : "Software Engineer @ Xbot JSC",
+  focus    : ["AI Agents", "Automation Pipelines", "Full Stack"],
+  stack    : ["TypeScript", "Python", "Node.js", "Go"],
+  side     : ["Photography 📷", "Hackintosh 🍎", "Home Lab 🖥️"],
+  building : "shorts-maker — AI-powered end-to-end video pipeline",
+  ask_me   : "Claude API · agentic workflows · making macOS run on PC",
+}
+```
 
 ---
 
-### Tech Stack
+### ⚡ Featured Builds
 
 <div align="center">
+  <a href="https://github.com/nhd2106/youtube-shorts-agents">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhd2106&repo=youtube-shorts-agents&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/nhd2106/shorts-maker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhd2106&repo=shorts-maker&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+  </a>
+</div>
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Tools & Platforms**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
+<div align="center">
+  <a href="https://github.com/nhd2106/ask-claude">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhd2106&repo=ask-claude&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/nhd2106/mongo-safe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhd2106&repo=mongo-safe&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+  </a>
 </div>
 
 ---
 
-### GitHub Stats
+### 🛠 Tech Stack
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nhd2106&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhd2106&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://skillicons.dev/icons?i=ts,py,js,go,react,nodejs,mongodb,docker,linux,vscode&theme=dark&perline=10" />
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nhd2106&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&rank_icon=github&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhd2106&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nhd2106&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=nhd2106&theme=midnight-purple&hide_border=true&background=0D1117&fire=A78BFA&ring=7C3AED&currStreakLabel=A78BFA&sideLabels=A78BFA" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=nhd2106&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=7C3AED" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nhd2106&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 </div>
