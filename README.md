@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=580&lines=Building+AI+agents+from+Saigon+%F0%9F%87%BB%F0%9F%87%B3;TypeScript+by+day%2C+Python+for+everything+AI+%F0%9F%A4%96;Automating+the+boring+stuff+with+Claude+%E2%9C%A8;Capturing+light+between+deploys+%F0%9F%93%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+AI+tools+that+make+life+easier+%F0%9F%A4%96;Mobile+apps+%2B+agents+%2B+automation+from+Saigon+%F0%9F%87%BB%F0%9F%87%B3;Too+lazy+to+do+it+twice+%E2%86%92+automate+it+%E2%9C%A8;Capturing+light+between+deploys+%F0%9F%93%B7" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -25,11 +25,12 @@
 ```ts
 const duoc = {
   role     : "Software Engineer @ Xbot JSC",
-  focus    : ["AI Agents", "Automation Pipelines", "Full Stack"],
-  stack    : ["TypeScript", "Python", "Node.js", "Go"],
+  focus    : ["AI Agents", "Mobile Apps", "Automation Pipelines"],
+  stack    : ["TypeScript", "Python", "React Native", "Node.js", "Go"],
   side     : ["Photography 📷", "Hackintosh 🍎", "Home Lab 🖥️"],
-  building : "shorts-maker — AI-powered end-to-end video pipeline",
-  ask_me   : "Claude API · agentic workflows · making macOS run on PC",
+  building : "AI tools that make everyday life actually easier",
+  philosophy: "I'm lazy → I automate → everyone benefits 🤷",
+  ask_me   : "Claude API · agentic workflows · mobile AI · Hackintosh",
 }
 ```
 
@@ -61,6 +62,11 @@ const duoc = {
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,py,js,go,react,nodejs,mongodb,docker,linux,vscode&theme=dark&perline=10" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_SDK-000000?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
 </div>
 
 ---
